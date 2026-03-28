@@ -8,6 +8,8 @@ Este projeto foi criado para praticar conceitos de **desenvolvimento front-end**
 
 ##  Demonstração do Projeto
 
+<img src="deliciasDoSaborInterface.png"/>
+
 Este projeto simula um site de culinária onde os usuários podem visualizar receitas, pratos e conteúdos relacionados à gastronomia.
 
 ---
